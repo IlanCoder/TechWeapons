@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ChipDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chips>
+    <XMLChip>
+      <Chip_Name>Health Chip</Chip_Name>
+      <Buffed_Stat>Health</Buffed_Stat>
+      <Amount>20</Amount>
+    </XMLChip>
+    <XMLChip>
+      <Chip_Name>Speed Chip</Chip_Name>
+      <Buffed_Stat>Speed</Buffed_Stat>
+      <Amount>10</Amount>
+    </XMLChip>
+    <XMLChip>
+      <Chip_Name>Agility Chip</Chip_Name>
+      <Buffed_Stat>Agility</Buffed_Stat>
+      <Amount>25</Amount>
+    </XMLChip>
+    <XMLChip>
+      <Chip_Name>Healing Chip</Chip_Name>
+      <Buffed_Stat>Healing</Buffed_Stat>
+      <Amount>15</Amount>
+    </XMLChip>
+    <XMLChip>
+      <Chip_Name>Berserk Chip</Chip_Name>
+      <Buffed_Stat>Berserk</Buffed_Stat>
+      <Amount>10</Amount>
+    </XMLChip>
+  </Chips>
+</ChipDB>

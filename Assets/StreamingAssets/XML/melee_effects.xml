@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<MeleeEffectDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Melee_Effects>
+    <XMLMeleeEffect>
+      <Effect_Name>Push</Effect_Name>
+      <Damage>10</Damage>
+      <Area>2</Area>
+    </XMLMeleeEffect>
+    <XMLMeleeEffect>
+      <Effect_Name>Explosion</Effect_Name>
+      <Damage>20</Damage>
+      <Area>3</Area>
+    </XMLMeleeEffect>
+  </Melee_Effects>
+</MeleeEffectDB>

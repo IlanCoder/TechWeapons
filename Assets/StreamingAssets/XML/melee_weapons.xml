@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<MeleeWeaponsDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Swords>
+    <XMLSword>
+      <Weapon_Name>Wind Sword</Weapon_Name>
+      <Attack_Speed>60</Attack_Speed>
+      <Damage>20</Damage>
+      <Effect_Charge>5</Effect_Charge>
+      <Effect_Name>Push</Effect_Name>
+      <Level>1</Level>
+      <Att.Spd._Upgrade>2</Att.Spd._Upgrade>
+      <Damage_Upgrade>0.5</Damage_Upgrade>
+    </XMLSword>
+  </Swords>
+  <Axes>
+    <XMLAxe>
+      <Weapon_Name>Dragon Axe</Weapon_Name>
+      <Attack_Speed>40</Attack_Speed>
+      <Damage>30</Damage>
+      <Effect_Charge>3</Effect_Charge>
+      <Effect_Name>Explosion</Effect_Name>
+      <Level>1</Level>
+      <Att.Spd._Upgrade>1</Att.Spd._Upgrade>
+      <Damage_Upgrade>1</Damage_Upgrade>
+    </XMLAxe>
+  </Axes>
+</MeleeWeaponsDB>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<RangedWeaponsDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pistols>
+    <XMLPistol>
+      <Weapon_Name>Lighting Pistol</Weapon_Name>
+      <Attack_Speed>120</Attack_Speed>
+      <Range>6</Range>
+      <Damage>3</Damage>
+      <Reload_Speed>2</Reload_Speed>
+      <Ammo>6</Ammo>
+      <Effect_Damage>0</Effect_Damage>
+      <Effect_Efficiency>0</Effect_Efficiency>
+      <Effect_Name>Slow</Effect_Name>
+      <Level>1</Level>
+      <Range_Upgrade>0.2</Range_Upgrade>
+      <Reload_Upgrade>-0.1</Reload_Upgrade>
+    </XMLPistol>
+  </Pistols>
+  <Rifles />
+  <Shotguns>
+    <XMLShotgun>
+      <Weapon_Name>Freeze Shotgun</Weapon_Name>
+      <Attack_Speed>20</Attack_Speed>
+      <Range>4</Range>
+      <Damage>5</Damage>
+      <Reload_Speed>5</Reload_Speed>
+      <Ammo>1</Ammo>
+      <Effect_Damage>0</Effect_Damage>
+      <Effect_Efficiency>0</Effect_Efficiency>
+      <Effect_Name>Freeze</Effect_Name>
+      <Level>1</Level>
+      <E.D._Upgrade>0.5</E.D._Upgrade>
+      <Damage_Upgrade>1</Damage_Upgrade>
+    </XMLShotgun>
+  </Shotguns>
+  <Miniguns />
+</RangedWeaponsDB>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<RangedEffectDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ranged_Effects>
+    <XMLRangedEffect>
+      <Effect_Name>Slow</Effect_Name>
+      <Damage>2</Damage>
+      <Debuffed_Stat>Speed</Debuffed_Stat>
+      <Strength>20</Strength>
+      <Duration>2</Duration>
+    </XMLRangedEffect>
+    <XMLRangedEffect>
+      <Effect_Name>Freeze</Effect_Name>
+      <Damage>3</Damage>
+      <Debuffed_Stat>Speed</Debuffed_Stat>
+      <Strength>100</Strength>
+      <Duration>1</Duration>
+    </XMLRangedEffect>
+  </Ranged_Effects>
+</RangedEffectDB>
